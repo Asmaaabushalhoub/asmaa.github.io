@@ -1,0 +1,9 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Asmaa Abushalhoub"
+theme = "hugo-coder"
+
+[params]
+  author = "Asmaa Abushalhoub"
+  info = ["Multilingual Researcher", "Language Tutor", "Digital Nomad"]
+  description = "Asmaa Abushalhoub - Multilingual Researcher, Language Tutor, and Digital Nomad."
