@@ -5,6 +5,5 @@ draft = false
 
 # Hello, I'm Asmaa
 
-Language Tutor | Multilingual Researcher|  Digital Nomad
-
+Communication Researcher | Language Tutor | Digital Nomad
 Welcome to my personal website.

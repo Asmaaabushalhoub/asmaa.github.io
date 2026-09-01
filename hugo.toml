@@ -5,5 +5,6 @@ theme = "hugo-coder"
 
 [params]
   author = "Asmaa Abushalhoub"
-  info = ["Multilingual Researcher", "Language Tutor", "Digital Nomad"]
-  description = "Asmaa Abushalhoub - Multilingual Researcher, Language Tutor, and Digital Nomad."
+  info = ["Communication Researcher", "Language tutor", "Digital Nomad"]
+  description = "Asmaa Abushalhoub - Communication Researcher, Language Tutor, and Digital Nomad."
+customCSS = ["css/custom.css"]
